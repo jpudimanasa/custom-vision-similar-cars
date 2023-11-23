@@ -1,0 +1,17 @@
+export const carsArray = [
+  { model: "Audi", path: "./images/audi/audi one .jpeg" },
+  { model: "Audi", path: "./images/audi/audi two.jpeg" },
+  { model: "Audi", path: "./images/audi/audi three.jpg" },
+  { model: "Audi", path: "./images/audi/audi four.jpg" },
+  { model: "Audi", path: "./images/audi/audi five.jpeg" },
+  { model: "BMW", path: "./images/bmw/bmw one.jpeg" },
+  { model: "BMW", path: "./images/bmw/bmw two.png" },
+  { model: "BMW", path: "./images/bmw/bmw three.jpeg" },
+  { model: "BMW", path: "./images/bmw/bmw four.jpeg" },
+  { model: "BMW", path: "./images/bmw/bmw five.jpeg" },
+  { model: "Kia", path: "./images/kia/kia one.jpeg" },
+  { model: "Kia", path: "./images/kia/kia two.jpeg" },
+  { model: "Kia", path: "./images/kia/kia three.jpeg" },
+  { model: "Kia", path: "./images/kia/kia four.jpeg" },
+  { model: "Kia", path: "./images/kia/kia five.jpeg" },
+];
